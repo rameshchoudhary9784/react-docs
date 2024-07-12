@@ -11,11 +11,11 @@ hero:
     alt: React Logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: React Documentation
+      text: What is React?
       link: /react/guide/what-is-react
+    - theme: alt
+      text: Quick Start
+      link: /react/guide/getting-started
     - theme: alt
       text: Teams
       link: /teams
