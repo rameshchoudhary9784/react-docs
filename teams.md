@@ -13,7 +13,7 @@ sidebar: false
 
     const coreMembers = [
         {
-            avatar: 'https://avatars.githubusercontent.com/u/129822410?v=4',
+            avatar: 'https://rameshchoudhary.site/assets/img/logo.png',
             name: 'Ramesh Choudhary',
             title: 'Founder of',
             desc: 'Currently working as a Senior Software Engineer at Capgemini',
