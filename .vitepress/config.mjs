@@ -8,10 +8,10 @@ export default defineConfig({
   titleTemplate: 'Ramesh Choudhary',
   lang: 'en-US',
   description: "React Documentation Website",
-  head: [['link', { rel: 'icon', href: '/assets/react.svg' }]],
+  head: [['link', { rel: 'icon', href: 'https://www.svgrepo.com/show/452092/react.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/assets/react.svg",
+    logo: "https://www.svgrepo.com/show/452092/react.svg",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'React', link: '/react/guide/what-is-react' },

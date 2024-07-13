@@ -13,7 +13,7 @@ sidebar: false
 
     const coreMembers = [
         {
-            avatar: 'https://rameshchoudhary.site/assets/img/logo.png',
+            avatar: 'https://cdn.dribbble.com/users/21471000/avatars/normal/d4fd19dbd647469827dccfdca5ebf403.jpg?1720868444',
             name: 'Ramesh Choudhary',
             title: 'Founder of',
             desc: 'Currently working as a Senior Software Engineer at Capgemini',
