@@ -7,7 +7,7 @@ hero:
   text: "Vite & Vue Powered React Docs Website"
   tagline: Markdown to Beautiful React Docs in Minutes
   image:
-    src: /assets/react.svg
+    src: https://www.svgrepo.com/show/452092/react.svg
     alt: React Logo
   actions:
     - theme: brand
